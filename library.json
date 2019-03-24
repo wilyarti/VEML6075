@@ -1,0 +1,24 @@
+{
+  "name": "VEML6075",
+  "keywords": "sensor, UV, vishay, veml, veml6075",
+  "description": "Library for Vishay's VEML6075 UVA/UVB i2c Sensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/schizobovine/VEML6075/"
+  },
+  "authors":
+  [
+    {
+      "name": "Sean Caulfield",
+      "email": "sean@yak.net",
+      "url": "https://github.com/schizobovine/VEML6075/",
+      "maintainer": true
+    },
+  ],
+  "dependencies":
+  {},
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
